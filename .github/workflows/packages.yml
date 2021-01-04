@@ -1,2 +1,34 @@
+#1st
+
 1st package name: wirk
 1st package code: 0001
+1st package password: 44101
+
+#auto_connect_to_Time_wrap
+
+allow to connect: True
+allow to reconnect: True
+
+#2
+
+2nd package name: drxVENOM
+2nd package code: 0002
+2nd package password: 4111073
+
+#auto_connect_to_Time_wrap
+
+allow to connect: True
+allow to reconnect: True
+
+#3
+
+
+3rd package name: Terminal
+3rd package code: 0003
+3rd package password: 200150
+
+#auto_connect_to_Time_wrap
+
+allow to connect: True
+allow to reconnect: True
+
